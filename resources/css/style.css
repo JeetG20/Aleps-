@@ -1,0 +1,30 @@
+.logo{width: 50px;}
+.sidebar .nav-item .nav-link{padding: 12px 1rem;}
+.sidebar hr.sidebar-divider{margin: 0 1rem 0px;}
+.sidebar hr:nth-last-child(2){margin-bottom: 30px;}
+.topbar .navbar-search{width: 35rem; color: #4e73df;}
+.table-responsive a.edit{color:#fc8a40 !important; cursor: pointer; }
+
+.edit{margin-right: 10px;}
+.table-responsive a.remove{margin-left: 10px; color: #e05654 !important; cursor: pointer;}
+.table-responsive a.edit:hover, .table-responsive a.remove:hover{color:#6369a7 !important; text-decoration: underline !important;  }
+.modal form .row{margin-bottom: 15px;}
+.modal form .row label{margin-bottom: 2px;}
+.addUser{margin-bottom: 20px;}
+.locationForm form .row span{display: block; font-size: 18px}
+.nameIdsec select, .officerNo input:nth-child(2){margin-bottom: 15px !important;}
+.dataTables_filter{padding: 3px;}
+.card-body span{display: block;}
+.card-body img{width: 100%; margin-bottom: 15px;}
+.incidentPopup .modal-dialog{max-width: 800px}
+.incidentPopup h5 span{display: block; font-size: 0.95rem}
+.incidentPopup img{width: 100%;}
+.incidentPopup .modal-body > div.float-left{width: 60%;}
+.incidentPopup .modal-body > div.float-right{width: 40%; padding-left: 20px;}
+.incidentPopup .modal-body > div.float-right span{display: block; font-size:0.85rem; font-weight: 700; }
+a[data-toggle="modal"]{cursor: pointer;}
+.incidentsRow .col-sm-3{padding-bottom: 1.5rem;}
+
+.form-inline .form-control, .form-inline .form-group {
+    max-width: 100%;
+}
